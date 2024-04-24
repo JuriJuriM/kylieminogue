@@ -1,25 +1,36 @@
 {
   "files": {
-    "main.css": "/kylieminogue/static/css/main.a6000ad1.css",
-    "main.js": "/kylieminogue/static/js/main.b641481a.js",
+    "main.css": "/kylieminogue/static/css/main.7a17cfa6.css",
+    "main.js": "/kylieminogue/static/js/main.3ecb33fd.js",
+    "static/media/golden.jpg": "/kylieminogue/static/media/golden.7ade1ea8f9a3f0fed090.jpg",
+    "static/media/allkylie.jpg": "/kylieminogue/static/media/allkylie.bb995c3f0f1f8a0058ed.jpg",
     "static/media/fivth.jpg": "/kylieminogue/static/media/fivth.cd4dd667a74fbd9a82af.jpg",
+    "static/media/kyliechristmas.jpg": "/kylieminogue/static/media/kyliechristmas.e1e317a5c6c81c84be3c.jpg",
     "static/media/eigth.jpg": "/kylieminogue/static/media/eigth.320e08558d714e0e7438.jpg",
+    "static/media/disco.jpg": "/kylieminogue/static/media/disco.215cdf6dda2f1ea1e6cc.jpg",
+    "static/media/ligtyears.jpg": "/kylieminogue/static/media/ligtyears.ff678c801e9ac460e761.jpg",
     "static/media/sixth.jpg": "/kylieminogue/static/media/sixth.ec78e5e8bfcabf94637e.jpg",
+    "static/media/debut.jpg": "/kylieminogue/static/media/debut.67f7049665da48f7adb4.jpg",
+    "static/media/impossible.jpg": "/kylieminogue/static/media/impossible.008ebcb4767be0cb1aff.jpg",
     "static/media/third.jpg": "/kylieminogue/static/media/third.d6096eae29c69f1437cf.jpg",
     "static/media/second.jpg": "/kylieminogue/static/media/second.7aabd0f0e4840cd8c6aa.jpg",
     "static/media/logo.jpg": "/kylieminogue/static/media/logo.75d67e958c9ad0e68639.jpg",
     "static/media/fourth.jpg": "/kylieminogue/static/media/fourth.85654b35ff09f83f3aae.jpg",
     "static/media/kylie.jpg": "/kylieminogue/static/media/kylie.c96f9676b625f4b11e58.jpg",
+    "static/media/kissme.jpg": "/kylieminogue/static/media/kissme.1151ec7ccd669183b3f0.jpg",
     "static/media/seventh.jpg": "/kylieminogue/static/media/seventh.c22a13b616f98664fffa.jpg",
     "static/media/cantget.jpg": "/kylieminogue/static/media/cantget.4d31b7cdab21612d9a90.jpg",
     "static/media/warior.jpg": "/kylieminogue/static/media/warior.7988617a23924f9f538b.jpg",
+    "static/media/ultimate.jpg": "/kylieminogue/static/media/ultimate.ed00f045867821be895d.jpg",
+    "static/media/enjoy.jpg": "/kylieminogue/static/media/enjoy.32b2a144a1e28f6570c7.jpg",
     "static/media/first.jpg": "/kylieminogue/static/media/first.7e6a17eb22bf1928b981.jpg",
+    "static/media/rithmlove.jpg": "/kylieminogue/static/media/rithmlove.7e87ce067c4eb8c4cef4.jpg",
     "index.html": "/kylieminogue/index.html",
-    "main.a6000ad1.css.map": "/kylieminogue/static/css/main.a6000ad1.css.map",
-    "main.b641481a.js.map": "/kylieminogue/static/js/main.b641481a.js.map"
+    "main.7a17cfa6.css.map": "/kylieminogue/static/css/main.7a17cfa6.css.map",
+    "main.3ecb33fd.js.map": "/kylieminogue/static/js/main.3ecb33fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6000ad1.css",
-    "static/js/main.b641481a.js"
+    "static/css/main.7a17cfa6.css",
+    "static/js/main.3ecb33fd.js"
   ]
 }
