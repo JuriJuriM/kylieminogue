@@ -36,6 +36,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Kylie Minogue - The Loco-Motion (Official 4k Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/UpvRg_2oD7A?si=qoHEW02VzbBu8YVy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__row'>
                         <div className='second__column'>
                             <div className='second__item'>
@@ -48,6 +54,12 @@ const Second = () => {
                                     <img src={Enjoy} alt='Enjoy' />
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className='second__titles'>Kylie Minogue and Jason Donovan - Especially For You (Official HD Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yalM-2ih7RU?si=zFYIuul0DKsB1UxK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
@@ -64,6 +76,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Kylie Minogue - Better The Devil You Know (Official Remastered HD Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/tto_nmsND_o?si=MeEeBtQmlHCwl6OG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__row'>
                         <div className='second__column'>
                             <div className='second__item'>
@@ -76,6 +94,12 @@ const Second = () => {
                                     <img src={Impossible} alt='Impossible' />
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className='second__titles'>Kylie Minogue - Can't Get You Out Of My Head (Official Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/c18441Eh_WE?si=KlAAkzawucCb3RRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
@@ -92,6 +116,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Kylie Minogue - In Your Eyes (Official Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/OjETibEMbJY?si=cqwxPkRGhK_VfYrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__row'>
                         <div className='second__column'>
                             <div className='second__item'>
@@ -104,6 +134,12 @@ const Second = () => {
                                     <img src={Ultimate} alt='Ultimate' />
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className='second__titles'>Robbie Williams, Kylie Minogue - Kids</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/cvn6eYJh-0c?si=1zoG03Ix5Ra5TCg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
@@ -120,6 +156,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Kylie Minogue - Your Disco Needs You</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iqtzMue6Izw?si=erJsYW7MH08nGT6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__row'>
                         <div className='second__column'>
                             <div className='second__item'>
@@ -132,6 +174,12 @@ const Second = () => {
                                     <img src={Kyliechristmas} alt='Kyliechristmas' />
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className='second__titles'>Kylie Minogue - Confide In Me (Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/WSFDCmmsqEI?si=nmM5j4-XK5Emasb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
@@ -148,6 +196,12 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='second__titles'>Kylie Minogue & Jessie Ware - Kiss of Life (Official Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yBX-33bbK6I?si=aYEMOMO7-DPxah78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
                     <div className='second__row'>
                         <div className='second__column'>
                             <div className='second__item'>
@@ -160,6 +214,12 @@ const Second = () => {
                                     <img src={Disco} alt='Disco' />
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <div className='second__titles'>Kylie Minogue - Padam Padam (Extended Mix) (Official Video)</div>
+                    <div className='second__from'>
+                        <div className='second__video'>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7JD69IlA9io?si=4pJJy3x3O9URTffk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
