@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kylieminogue/static/css/main.ba603765.css",
-    "main.js": "/kylieminogue/static/js/main.44bb62c3.js",
+    "main.css": "/kylieminogue/static/css/main.d1abd696.css",
+    "main.js": "/kylieminogue/static/js/main.2fee8735.js",
     "static/media/golden.jpg": "/kylieminogue/static/media/golden.7ade1ea8f9a3f0fed090.jpg",
     "static/media/allkylie.jpg": "/kylieminogue/static/media/allkylie.bb995c3f0f1f8a0058ed.jpg",
     "static/media/fivth.jpg": "/kylieminogue/static/media/fivth.cd4dd667a74fbd9a82af.jpg",
@@ -26,11 +26,11 @@
     "static/media/first.jpg": "/kylieminogue/static/media/first.7e6a17eb22bf1928b981.jpg",
     "static/media/rithmlove.jpg": "/kylieminogue/static/media/rithmlove.7e87ce067c4eb8c4cef4.jpg",
     "index.html": "/kylieminogue/index.html",
-    "main.ba603765.css.map": "/kylieminogue/static/css/main.ba603765.css.map",
-    "main.44bb62c3.js.map": "/kylieminogue/static/js/main.44bb62c3.js.map"
+    "main.d1abd696.css.map": "/kylieminogue/static/css/main.d1abd696.css.map",
+    "main.2fee8735.js.map": "/kylieminogue/static/js/main.2fee8735.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba603765.css",
-    "static/js/main.44bb62c3.js"
+    "static/css/main.d1abd696.css",
+    "static/js/main.2fee8735.js"
   ]
 }
