@@ -116,10 +116,10 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='second__titles'>Kylie Minogue - In Your Eyes (Official Video)</div>
+                    <div className='second__titles'>Kylie Minogue - Stop Me From Falling feat. Gente De Zona (Official Video)</div>
                     <div className='second__from'>
                         <div className='second__video'>
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/OjETibEMbJY?si=cqwxPkRGhK_VfYrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/pMv5vuSHMsU?si=ZB1EIbti3C1SYb4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
@@ -176,10 +176,10 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='second__titles'>Kylie Minogue - Confide In Me (Video)</div>
+                    <div className='second__titles'>Kylie Minogue - Magic (Official Video)</div>
                     <div className='second__from'>
                         <div className='second__video'>
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/WSFDCmmsqEI?si=nmM5j4-XK5Emasb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vzZn31gd_Jc?si=e-HioKR6cVgsxuPX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
