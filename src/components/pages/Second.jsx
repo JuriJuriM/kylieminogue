@@ -96,10 +96,10 @@ const Second = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='second__titles'>Kylie Minogue - Can't Get You Out Of My Head (Official Video)</div>
+                    <div className='second__titles'>Kylie Minogue - Lights Camera Action (Official Video)</div>
                     <div className='second__from'>
                         <div className='second__video'>
-                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/c18441Eh_WE?si=KlAAkzawucCb3RRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/aAVqr8hwjVY?si=L3MNEHsbUubGX-wZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div className='second__row'>
